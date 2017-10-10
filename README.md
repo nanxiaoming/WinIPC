@@ -1,2 +1,2 @@
 # WinIPC
-Winodws Inter Process Communication , based on NamePipe
+Windows Inter Process Communication , based on NamePipe
